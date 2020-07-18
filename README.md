@@ -1,9 +1,11 @@
 2Rooms' Website Upgrade
+
 This project is intended as an upgrade of the existing website of my friend's catering business in Hong Kong.
 
 Website address: www.2rooms.com.hk
 
 UX
+
 Having discussed in length, my friend would like to have an eye-catching website with hero images across each page to draw attention. She would also like to include a photo gallery.
 
 The website will still consist of the current number of pages, but the layout and content will be simplified for easy navigation and to keep visitors engaged.
@@ -11,14 +13,17 @@ The website will still consist of the current number of pages, but the layout an
 What she wants to achieve is a clean, straightforward and welcoming webpage that will appeal to new visitors as well as existing customers.
 
 Features
+
 The website will be fully responsive to different screen sizes. Where appropriate, images will not be displayed to minimise distraction from the content.
 
 The photos are arranged in the porfolio page with captions to showcase the wide range of services provided and customised products available.
 
 Feature Left to Implement
+
 Tab to enlarge photos in portfolio
 
 Issues
+
 Contact form currently has no valid http weblink hence showing invalid page after submitting.
 
 The website was developed initially using repl.it and then copied across as there were constant issues with Gitpod in terms of loading the webages and changes for preview.
@@ -30,17 +35,21 @@ In addition, it has taken my friend and I considerable time to collate the photo
 Overall, my friend is happy with the end result and feels it is an improvement to her current website.
 
 Deployment
+
 Problems identified by Gitpod were corrected and then commited changes. 
 
 Credits
 
 Content
+
 The content text was extracted from the existing company website.
 
 Media
+
 The photos used in this site were obtained from my friend directly and shared privately via Dropbox.
 
 Acknowledgements
+
 I received inspiration for this project from Code Institute and Starbucks.
 
 Below are links to the tutorials from which codes were used:

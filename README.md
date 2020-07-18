@@ -36,7 +36,7 @@ Overall, my friend is happy with the end result and feels it is an improvement t
 
 Deployment
 
-Problems identified by Gitpod were corrected and then commited changes. 
+Problems identified by Gitpod were corrected and changes were committed. 
 
 Credits
 

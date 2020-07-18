@@ -1,39 +1,58 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+2Rooms' Website Upgrade
+This project is intended as an upgrade of the existing website of my friend's catering business in Hong Kong.
 
-Welcome USER_NAME,
+Website address: www.2rooms.com.hk
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+UX
+Having discussed in length, my friend would like to have an eye-catching website with hero images across each page to draw attention. She would also like to include a photo gallery.
 
-## Gitpod Reminders
+The website will still consist of the current number of pages, but the layout and content will be simplified for easy navigation and to keep visitors engaged.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+What she wants to achieve is a clean, straightforward and welcoming webpage that will appeal to new visitors as well as existing customers.
 
-`python3 -m http.server`
+Features
+The website will be fully responsive to different screen sizes. Where appropriate, images will not be displayed to minimise distraction from the content.
 
-A blue button should appear to click: *Make Public*,
+The photos are arranged in the porfolio page with captions to showcase the wide range of services provided and customised products available.
 
-Another blue button should appear to click: *Open Browser*.
+Feature Left to Implement
+Tab to enlarge photos in portfolio
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Issues
+Contact form currently has no valid http weblink hence showing invalid page after submitting.
 
-A blue button should appear to click: *Make Public*,
+The website was developed initially using repl.it and then copied across as there were constant issues with Gitpod in terms of loading the webages and changes for preview.
 
-Another blue button should appear to click: *Open Browser*.
+Given the time difference between Hong Kong and the UK, this has caused some delays in the design process and scheduling online meetings to discuss specific requirements.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+In addition, it has taken my friend and I considerable time to collate the photos that are of good quality and suitable to use in the website.
 
-## Updates Since The Instructional Video
+Overall, my friend is happy with the end result and feels it is an improvement to her current website.
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+Deployment
+Problems identified by Gitpod were corrected and then commited changes. 
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+Credits
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Content
+The content text was extracted from the existing company website.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+Media
+The photos used in this site were obtained from my friend directly and shared privately via Dropbox.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Acknowledgements
+I received inspiration for this project from Code Institute and Starbucks.
 
---------
+Below are links to the tutorials from which codes were used:
 
-Happy coding!
+YouTuber DarkCode - Responsive Menu Navigation Using Only HTML & CSS
+https://www.youtube.com/watch?v=cQ6YQ8K5MRw
+
+Stackoverflow User w3debugger - 2 Columns layout in CSS
+https://stackoverflow.com/questions/29395613/two-columns-layout-in-css-text-and-image-changing-order-in-each-row/29395830#29395830
+
+w3schools.com - Responsive Image Gallery
+https://www.w3schools.com/css/tryit.asp?filename=trycss_image_gallery_responsive
+
+w3schools.com - HOW TO Responsive Form
+https://www.w3schools.com/howto/howto_css_responsive_form.asp

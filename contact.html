@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>2Rooms' Kitchen</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <script src="https://kit.fontawesome.com/13d7a236af.js" crossorigin="anonymous"></script>
+  </head>
+  
+  <body>
+
+<!-- Responsive navbar code from external source: YouTuber DarkCode video tutorial -->
+
+    <div class="header">
+        <h2 class="logo"><img src="images/logo.jpeg" width="240px" height="80px"></h2>
+        <input type="checkbox" id="chk">
+        <label for="chk" class="show-menu-btn">
+          <i class="fas fa-bars"></i>
+        </label>
+
+        <ul class="menu">
+          <a href="index.html">Home</a>
+          <a href="catering.html">Catering</a>
+          <a href="bakery.html">Bakery</a>
+          <a href="portfolio.html">Portfolio</a>
+          <a class="active" href="contact.html">Contact</a>
+          <label for="chk" class="hide-menu-btn">
+            <i class="fas fa-times"></i>
+          </label>
+        </ul>
+    </div>
+
+    <section id="contact-outer">
+      <div id="contact-image">
+      </div>
+    </section>
+
+<!-- Responsive contact form code obtained from external source: w3schools.com "How to Create a Responsive Form" -->
+
+<div class="contact-container">
+  <form method="post" action="www.2rooms.com.hk">
+    <div class="row">
+      <div class="col-25">
+        <label for="name">Name</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="name" name="name" placeholder="Your name">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="email">Email</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="email" name="email" placeholder="Your email">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="message">Message</label>
+      </div>
+      <div class="col-75">
+        <textarea id="message" name="message" placeholder="Your message" style="height:200px"></textarea>
+      </div>
+    </div>
+    <div class="row">
+      <input type="submit" value="Submit">
+    </div>
+  </form>
+</div>
+
+<div class="address">
+  <h3>2Rooms' Kitchen Ltd.</h3>
+  <p>Workshop 1, 6/F, E.W. International Tower, 120-124 Texaco Road, Tsuen Wan.</p>
+</div>
+
+    <footer>
+        <ul class="social-networks">
+                <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+                <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            </ul>
+    </footer>
+
+  </body>
+</html>

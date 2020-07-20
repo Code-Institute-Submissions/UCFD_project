@@ -38,6 +38,8 @@ Deployment
 
 Problems identified by Gitpod were corrected and changes were committed. 
 
+Code checked using W3C HTML Validator and errors corrected.
+
 Credits
 
 Content

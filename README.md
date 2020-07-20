@@ -18,6 +18,10 @@ The website will be fully responsive to different screen sizes. Where appropriat
 
 The photos are arranged in the porfolio page with captions to showcase the wide range of services provided and customised products available.
 
+Colour scheme used is in line with company logo and to create a soft and warm atmosphere. 
+
+Font used is in line with a friendly and approachable image. 
+
 Feature Left to Implement
 
 Tab to enlarge photos in portfolio
@@ -36,7 +40,11 @@ Overall, my friend is happy with the end result and feels it is an improvement t
 
 Deployment
 
-Problems identified by Gitpod were corrected and changes were committed. 
+Issues identified by Gitpod were corrected.
+
+Changes were committed and pushed across to Github.
+
+Pages checked using DevTools.
 
 HTML code checked using W3C HTML Validator.
 

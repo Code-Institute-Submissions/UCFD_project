@@ -38,9 +38,9 @@ Deployment
 
 Problems identified by Gitpod were corrected and changes were committed. 
 
-HTML code checked using W3C HTML Validator and errors corrected.
+HTML code checked using W3C HTML Validator.
 
-CSS code checked using W3C CSS Validator and errors corrected.
+CSS code checked using W3C CSS Validator.
 
 Credits
 

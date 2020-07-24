@@ -90,6 +90,8 @@ Following advice from tutor, improvements were made on Gitpod as follows:
 
 All files were then pushed across from Gitpod to Github and committed ready for submission. 
 
+Readme file was rechecked and spellchecked prior to committing again.
+
 ## Credits
 
 ### Content

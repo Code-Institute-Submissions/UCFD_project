@@ -18,15 +18,15 @@ Given the time difference between Hong Kong and the UK, this has caused some del
 
 - Page content to be split into two columns alternating with text and picture.
 
-- Footnote section will contain liks to Facebook and Instagram.
+- Footnote section to contain links to Facebook and Instagram.
 
 - The same layout will basically be used across the pages for consistency.
 
-- Portfolio page will not have a hero image, intead there will be individual image with caption arranged in squares to resemble polaroid photos.
+- Portfolio page will not have a hero image, instead there will be individual image with caption arranged in squares to resemble polaroid photos.
 
-- Contact page will show a form for submitting enquiry with company address and contact details at the bottom.
+- Contact page to show a form for submitting enquiry with company address and contact details at the bottom.
 
-My friend is happy with the end result and feels it is an improvement to her current website and manages to achieve the goals set out. 
+My friend is happy with the end result and feels it is an improvement to her current website which manages to achieve the goals set out. 
 
 ## Features
 
@@ -48,7 +48,7 @@ Tab to enlarge photos in portfolio
 
 Contact form currently has no valid http weblink hence showing invalid page after submitting.
 
-The website was developed initially using repl.it and then copied across as there were constant issues with Gitpod in terms of loading the webages and changes for preview.
+The website was developed initially using repl.it and then copied across as there were constant issues with Gitpod in terms of loading the webages and changes for preview. Issues resolved after discussing with tutor and clearing cache regularly.
 
 ## Testing 
 
@@ -58,13 +58,13 @@ HTML code were checked using W3C HTML Validator and beautified using HTML Format
 
 CSS code were checked using W3C CSS Validator and beautified using CSS Formatter. 
 
-During the development process, I have used the Google inspect tool to similuate viewing the pages with different mobile devices. Different browsers like Chrome, Firefox and Safari were also used to open the pages. The website is responsive to various screen sizes. 
+During the development process, the Google inspect tool has been used to similuate viewing the pages with different mobile devices. Different browsers like Chrome, Firefox and Safari are also used to open the pages to ensure no missing links. The website is responsive to various screen sizes. 
 
 My friend and I have used different devices like iPhones and iPads to access the website to ensure that the images and content are all displayed as they are intended. We have asked other friends with Android devices to check the website as well. I have also asked everyone for their feedback in terms of ease of navigating the pages and whether they found the website appealing. They liked the photos and colour scheme. In particular, they found the website clean and consistent where there is a good balance between pictures and text - they were able to find out what they wanted about the company services thus achieveing the goals set up above. 
 
 ## Deployment
 
-Repository opened in Github. Workspace opened in Gitpod. 
+Repository created in Github. Workspace opened in Gitpod. 
 
 Issues identified by Gitpod were corrected.
 
